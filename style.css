@@ -1,5 +1,4 @@
 a {
-  color:black;
   text-decoration: none;
 }
 h1{
@@ -8,7 +7,6 @@ h1{
   border-bottom: 2px gray solid;
   margin: 0px;
   padding: 30px;
-
 }
 #grid ol{
   border-left:2px gray solid;
